@@ -1,0 +1,8 @@
+C:\.NET Training\Day2\EXercise01-Day02\EXercise01-Day02\obj\Debug\EXercise01-Day02.csproj.AssemblyReference.cache
+C:\.NET Training\Day2\EXercise01-Day02\EXercise01-Day02\obj\Debug\EXercise01-Day02.csproj.SuggestedBindingRedirects.cache
+C:\.NET Training\Day2\EXercise01-Day02\EXercise01-Day02\obj\Debug\EXercise01-Day02.csproj.CoreCompileInputs.cache
+C:\.NET Training\Day2\EXercise01-Day02\EXercise01-Day02\bin\Debug\EXercise01-Day02.exe.config
+C:\.NET Training\Day2\EXercise01-Day02\EXercise01-Day02\bin\Debug\EXercise01-Day02.exe
+C:\.NET Training\Day2\EXercise01-Day02\EXercise01-Day02\bin\Debug\EXercise01-Day02.pdb
+C:\.NET Training\Day2\EXercise01-Day02\EXercise01-Day02\obj\Debug\EXercise01-Day02.exe
+C:\.NET Training\Day2\EXercise01-Day02\EXercise01-Day02\obj\Debug\EXercise01-Day02.pdb
